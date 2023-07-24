@@ -1,0 +1,4 @@
+- To fill the file ".env" for example
+  - https://www.lequipe.fr/Tous-sports/Actualites/Les-flux-rss-de-l-equipe/1299546
+- To fill the ".env.test" for example
+  - use the "mock server" feature in postman : https://learning.postman.com/docs/designing-and-developing-your-api/mocking-data/setting-up-mock/
